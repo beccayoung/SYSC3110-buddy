@@ -2,7 +2,6 @@ import java.util.ArrayList;
 
 public class AddressBook {
 
-// Added text for step 17 of Lab 3
 
     public static void main(String[] args) {
         BuddyInfo buddy = new BuddyInfo("Tom", "Carleton", "613");
